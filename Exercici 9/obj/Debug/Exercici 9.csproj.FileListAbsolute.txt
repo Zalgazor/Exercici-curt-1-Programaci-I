@@ -1,6 +1,0 @@
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 9\bin\Debug\Exercici 9.exe.config
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 9\bin\Debug\Exercici 9.exe
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 9\bin\Debug\Exercici 9.pdb
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 9\obj\Debug\Exercici 9.csproj.CoreCompileInputs.cache
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 9\obj\Debug\Exercici 9.exe
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 9\obj\Debug\Exercici 9.pdb

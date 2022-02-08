@@ -1,7 +1,0 @@
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 8\bin\Debug\Exercici 8.exe.config
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 8\bin\Debug\Exercici 8.exe
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 8\bin\Debug\Exercici 8.pdb
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 8\obj\Debug\Exercici 8.csproj.AssemblyReference.cache
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 8\obj\Debug\Exercici 8.csproj.CoreCompileInputs.cache
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 8\obj\Debug\Exercici 8.exe
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 8\obj\Debug\Exercici 8.pdb

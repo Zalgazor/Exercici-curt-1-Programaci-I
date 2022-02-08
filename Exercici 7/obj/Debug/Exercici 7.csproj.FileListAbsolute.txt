@@ -1,7 +1,0 @@
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 7\bin\Debug\Exercici 7.exe.config
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 7\bin\Debug\Exercici 7.exe
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 7\bin\Debug\Exercici 7.pdb
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 7\obj\Debug\Exercici 7.csproj.AssemblyReference.cache
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 7\obj\Debug\Exercici 7.csproj.CoreCompileInputs.cache
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 7\obj\Debug\Exercici 7.exe
-C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 7\obj\Debug\Exercici 7.pdb
