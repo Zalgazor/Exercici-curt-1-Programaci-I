@@ -1,0 +1,7 @@
+C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 6\bin\Debug\Exercici 6.exe.config
+C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 6\bin\Debug\Exercici 6.exe
+C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 6\bin\Debug\Exercici 6.pdb
+C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 6\obj\Debug\Exercici 6.csproj.CoreCompileInputs.cache
+C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 6\obj\Debug\Exercici 6.exe
+C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 6\obj\Debug\Exercici 6.pdb
+C:\Users\AlexS\Desktop\Programació I\Exercicicis\Exercici_1\Exercici 6\obj\Debug\Exercici 6.csproj.AssemblyReference.cache
