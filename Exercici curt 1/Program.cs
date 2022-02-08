@@ -9,6 +9,7 @@ namespace Exercici_curt_1
     class Program
     {
         private static string[] opcions = { "PEDRA", "PAPER", "TISORA" };
+        private static string[,] resultats = {{"Empat", "Perds", "Guanyes"},{"Guanyes", "Empat", "Perds"},{"Perds", "Guanyes", "Empat"}};
 
         static void Main(string[] args)
         {
@@ -39,6 +40,13 @@ namespace Exercici_curt_1
                 return opcioUsuari();
             }
 
+        }
+
+        private static string comprovarQuiGuanya(int opcioUsuari, int opcioOrdinador)
+        {
+            Console.WriteLine($"         Usuari: {opcions[opcioUsuari]}");
+            Console.WriteLine($"         Ordinador: {opcions[opcioOrdinador]}");
+            Console.WriteLine("");
         }
     }
 }
